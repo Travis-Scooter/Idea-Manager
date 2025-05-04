@@ -1,1 +1,5 @@
-node_modules\electron\dist\electron.exe
+# Package folders
+node_modules/
+
+# Log files
+*.log
